@@ -36,7 +36,7 @@ Este proyecto es modo consola.
 </p>
 
 <p align="center">
-  <img src="documentaCion/tic-tac-toe4.jpg">
+  <img src="documentacion/tic-tac-toe4.jpg">
 </p>
 
 ### TIE
